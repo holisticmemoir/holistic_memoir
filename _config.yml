@@ -7,7 +7,7 @@ permalink:        pretty
 
 # Setup
 url:              https://holisticmemoir.github.io/holistic_memoir/
-baseurl:          /
+baseurl:          ""
 title:            A HOLISTIC MEMOIR OF THE PHD EXPERIENCE
 tagline:          'Exploring the uniqueness of the PhD experience, one story at a time.'
 description: >
