@@ -6,8 +6,8 @@ highlighter:      rouge
 permalink:        pretty
 
 # Setup
-url:              https://probablytom.github.io/holistic_memoir/
-baseurl:          /
+url:              https://holisticmemoir.github.io/
+baseurl:          /holistic_memoir/
 title:            A Holistic Memoir of the PhD Experience
 tagline:          'Exploring the uniqueness of the PhD experience, one story at a time.'
 description: >
