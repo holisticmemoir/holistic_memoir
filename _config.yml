@@ -10,16 +10,15 @@ url:              https://holisticmemoir.github.io/holistic_memoir/
 baseurl:          ""
 title:            A HOLISTIC MEMOIR OF THE PHD EXPERIENCE
 tagline:          'Exploring the uniqueness of the PhD experience, one story at a time.'
-description: >
-  When considering or beginning a PhD, many of us read books and articles describing the experience awaiting us. But these are written from the perspective of the person who's written the article, because <i>every experience is unique</i>.
+description: 'When considering or beginning a PhD, many of us read books and articles describing the experience awaiting us. But these are written from the perspective of the person who\'s written the article, because <i>every experience is unique</i>.
   
   They also have certain things in common. The PhD experience seems to go through a similar pattern for everybody, with similar highs and lows, trials and joys. Every experience is unique — <i>some of the time</i> — so what should you expect?
   
-  This is a memoir of a PhD experience, where each short essay describes a different person's experience of their PhD. Perspectives are collected from different stages of study, different kinds of research, different research structures, different experiences — outlining the similarities and the differences, for you.
+  This is a memoir of a PhD experience, where each short essay describes a different person\'s experience of their PhD. Perspectives are collected from different stages of study, different kinds of research, different research structures, different experiences — outlining the similarities and the differences, for you.
   
 
 
-  This is the reference we wish we had when we began.
+  This is the reference we wish we had when we began.'
 
 author:
   name:           'A community effort, spearheaded by Tom Wallis'
