@@ -7,38 +7,36 @@ body { width: 87.5%;
        font-family: Jost, "Cardo", Palatino, "Palatino Linotype", "Palatino LT STD", "Book Antiqua", Georgia, serif;
        background-color: #fffff8;
        color: #111;
+       font-size: 1.5em;
+       line-height: 2em;
        max-width: 1400px;
        counter-reset: sidenote-counter; }
 
 h1 { font-family: Jost, Palatino, "Palatino Linotype", "Palatino LT STD", "Book Antiqua", Georgia, serif;
      margin-top: 4rem;
      margin-bottom: 1.5rem;
-     font-size: 3.2rem;
-     line-height: 1; }
+     font-size: 3.2rem;}
 
 h2 { font-style: italic;
      font-family: Jost, Palatino, "Palatino Linotype", "Palatino LT STD", "Book Antiqua", Georgia, serif;
      margin-top: 4rem;
      margin-bottom: 0;
-     font-size: 2.5rem;
-     line-height: 1; }
+     font-size: 2.5rem;}
 
 h3 { font-style: italic;
      font-family: Jost, Palatino, "Palatino Linotype", "Palatino LT STD", "Book Antiqua", Georgia, serif;
      font-size: 2.0rem;
      margin-top: 2rem;
-     margin-bottom: 0;
-     line-height: 1; }
+     margin-bottom: 0;}
 
 p.subtitle { font-style: italic;
              font-family: Jost;
              margin-top: 1rem;
              margin-bottom: 1rem;
              font-size: 1.8rem;
-             display: block;
-             line-height: 1; }
+             display: block;}
 
-.numeral { font-family: Cardo, Palatino/* "Vulf Mono", et-book-roman-old-style */; }
+.numeral { font-family: Jost, Cardo, Palatino/* "Vulf Mono", et-book-roman-old-style */; }
 
 .danger { color: red; }
 
