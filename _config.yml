@@ -6,9 +6,9 @@ highlighter:      rouge
 permalink:        pretty
 
 # Setup
-url:              https://holisticmemoir.github.io/
-baseurl:          /holistic_memoir/
-title:            A Holistic Memoir of the PhD Experience
+url:              https://holisticmemoir.github.io/holistic_memoir/
+baseurl:          /
+title:            A HOLISTIC MEMOIR OF THE PHD EXPERIENCE
 tagline:          'Exploring the uniqueness of the PhD experience, one story at a time.'
 description: >
   When considering or beginning a PhD, many of us read books and articles describing the experience awaiting us. But these are written from the perspective of the person who's written the article, because <i>every experience is unique</i>.
@@ -23,10 +23,10 @@ description: >
 
 author:
   name:           'A community effort, spearheaded by Tom Wallis'
-  url:            https://github.com/probablytom/holistic_memoir
+  url:            https://github.com/holisticmemoir/holistic_memoir
 
 # Custom vars
 version:          0.1
 
 github:
-  repo:           https://github.com/probablytom/holistic_memoir
+  repo:           https://github.com/holisticmemoir/holistic_memoir
