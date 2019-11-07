@@ -6,8 +6,8 @@ highlighter:      rouge
 permalink:        pretty
 
 # Setup
-url:              https://holisticmemoir.github.io/holistic_memoir
-baseurl:          "/holistic_memoir/"
+url:              http://exp.postgrad.tips
+baseurl:          /
 title:            A HOLISTIC MEMOIR OF THE PHD EXPERIENCE
 tagline:          'Exploring the uniqueness of the PhD experience, one story at a time.'
 description: "<p>When considering or beginning a PhD, many of us read books and articles describing the experience awaiting us. But these are written from the perspective of the person who's written the article, because <i>every experience is unique</i>.</p>
