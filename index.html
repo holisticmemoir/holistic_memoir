@@ -10,7 +10,7 @@ title: Home
 <div class="pages">
     <ul>
         {% for page in site.pages %}
-        {% unless page.reference or page.kind == "reference" %}{% if page.should_show %}
+        {% unless page.reference or page.kind == "reference" or page.isdraft %}
         <li class="table-row">
             <div>
             <a href="{{ page.url }}">
@@ -18,7 +18,7 @@ title: Home
             </a>
             </div>
         </li>
-        {% endif %}{% endunless %}
+        {% endunless %}
         {% endfor %}
     </ul>
 </div>
@@ -28,11 +28,11 @@ title: Home
 <div class="posts">
     <ul>
         {% for post in site.posts %}
-        {% unless post.reference or post.kind == "reference" %}
+        {% unless post.reference or post.kind == "reference" or post.isdraft %}
         <li class="table-row">
             <div class="table-cell">
-                <a href="{{ site.baseurl }}{{ post.url }}">
-                    {{ post.author }} — {{ post.title }}
+                <a href="{{ post.url }}">
+                    {{ post.author }}{% unless post.author == post.title %} — {{ post.title }}{% enduless %}
                 </a>
             </div>
             {% if post.kind %}

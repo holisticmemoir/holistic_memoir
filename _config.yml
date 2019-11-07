@@ -6,7 +6,7 @@ highlighter:      rouge
 permalink:        pretty
 
 # Setup
-url:              http://exp.postgrad.tips
+url:              http://exp.postgrad.tips/
 baseurl:          /
 title:            A HOLISTIC MEMOIR OF THE PHD EXPERIENCE
 tagline:          'Exploring the uniqueness of the PhD experience, one story at a time.'
