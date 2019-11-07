@@ -1,6 +1,9 @@
 ---
 title: Styleguide
 layout: post
+kind: Style
+should_show: true
+permalink: /style_guide/
 ---
 
 ## Purpose of This Guide
