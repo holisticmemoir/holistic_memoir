@@ -17,9 +17,18 @@ collection of content is that it's contributed from a wide variety of people; it
 this guide is to give content a feeling of cohesion, without limiting it so that articles can't speak with their authors'
 unique voices.*
 
+## TL;DR
+
+* Write for a layperson's understanding, like the [simple english
+  wikipedia](https://simple.wikipedia.org/wiki/Black_hole)
+* Use the active voice where possible
+* No cursing!
+* First-person only please
+* Look up [Tom's own entry]({{site.url}}{{site.baseurl}}/tom-sample/) as an example of what to write.
+
 ## Literary Voice
 
-Speaking of voice.
+Voice:
 
 > A particular style or way of writing that expresses a certain tone or feeling.
 
@@ -37,7 +46,7 @@ start. For reference, [here's the Simple English entry on Wikipedia for black ho
 ## Grammatical Voice
 
 A part of writing for the collection in a manner which is simple enough to understand is the grammatical aspect of
-voice, which can be active or passive. Contrasts taken from [this writing guide](https://webapps.towson.edu/ows/activepass.htm**:
+voice, which can be active or passive. Contrasts taken from [this writing guide](https://webapps.towson.edu/ows/activepass.htm):
 
 *Active Voice*:
 
@@ -62,8 +71,8 @@ particular:
 Something which might help to get the right feeling across is to bear in mind the line from Mary Schmich's essay, often
 titled "Wear Sunscreen":
 
-> Advice is a form of nostalgia. dispensing it is a way of fishing the past from the disposal, wiping it off, painting
-> over the ugly parts and recycling it for more than it's worth
+> Advice is a form of nostalgia. Dispensing it is a way of fishing the past from the disposal, wiping it off, painting
+> over the ugly parts and recycling it for more than it's worth.
 
 Only in this case, we are writing for an audience who are *expressly* looking for this advice. Writing with an awareness
 that we are drawing on memories, fond or not so, to help inform readers looking to make an important choice and needing
@@ -72,7 +81,18 @@ help to do so, can help to frame what we are doing.
 Our intention should be to *lean into this nostalgia*, to be honest about the fact that we are drawing from memories
 specific to our experience, and to be humble about the relative importance of what we're relating to the audience.
 
+## First Person
+
+You're writing about your experience — unlike academic writing, submissions to
+this project are best done in first person. Unless your submission is anonymous,
+your name will be supplied with the post, so it'll be clear that you're writing
+about your specific experience anyway; it might be odd to have you refer to
+yourself in second or third person. ("Your experience was that" clearly isn't
+right, and "their experience was that" is also clearly wrong.)
+
 ## Examples
 
-You can check out Tom's entry [here]() for an example of the style we're looking for. This style guide will be kept up
-to date as the project moves forward, and the example entry will be updated too to reflect these changes.
+You can check out Tom's entry for an example of the style we're looking for,
+once it's written, [just here]({{site.url}}{site.baseurl}}/tom-sample/). This
+style guide will be kept up to date as the project moves forward, and the
+example entry will be updated too to reflect these changes.
